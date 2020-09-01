@@ -13,3 +13,4 @@ Must have linux tools that'll make you more productive
 8. [LF](https://github.com/gokcehan/lf) - terminal file manager
 9. Zathura - document viewer (pdf, djvu etc.)
 10. htop - interactive process viewer
+11. [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator telescope (it's awesome)
