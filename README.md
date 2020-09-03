@@ -14,3 +14,6 @@ Must have linux tools that'll make you more productive
 9. Zathura - document viewer (pdf, djvu etc.)
 10. htop - interactive process viewer
 11. [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator telescope (it's awesome)
+
+
+- [List of applications with vi keybindings](https://www.reddit.com/r/vim/comments/3tluqr/my_list_of_applications_with_vi_keybindings/)
