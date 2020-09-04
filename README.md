@@ -17,3 +17,9 @@ Must have linux tools that'll make you more productive
 
 
 - [List of applications with vi keybindings](https://www.reddit.com/r/vim/comments/3tluqr/my_list_of_applications_with_vi_keybindings/)
+
+##### Learn linux by opening single man page randomly
+```
+man $(find /usr/share/man/man1 -type f | shuf | head -1)
+```
+Credits - Distrotube on youtube
